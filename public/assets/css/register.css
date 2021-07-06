@@ -1,0 +1,14 @@
+.register{
+    width: 300px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.header__register
+{
+    background: blue;
+    margin-top: 10px;
+}
+.reg__link li a{
+    color: #fff;
+}
